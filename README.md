@@ -17,7 +17,6 @@ Bugs and issues reports on the SmashMC network.
 3. Click on the `Get Started` button on the right, opposite `Bug Report`.
 </br>
 <img src="https://imgur.com/a0qMkBA.png"></img>
-
 4. Enter a title and complete the bug report- <strong>follow the format</strong> provided. Click `Submit new issue` once completed.
 </br>
 <img src="https://imgur.com/XXiEvXK.png"></img>
