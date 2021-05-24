@@ -9,15 +9,15 @@ Bugs and issues reports on the SmashMC network.
 1. Either login if you already have a GitHub account or create one if you do not.
 </br>
 <img src="https://imgur.com/mcx9jtt.png"></img>
-
+</br>
 2. Click the `Issues` tab at the top of the repository.
 </br>
 <img src="https://imgur.com/8KPxql8.png"></img>
-
+</br>
 3. Click on the `Get Started` button on the right, opposite `Bug Report`.
 </br>
 <img src="https://imgur.com/a0qMkBA.png"></img>
-
+</br>
 4. Enter a title and complete the bug report- <strong>follow the format</strong> provided. Click `Submit new issue` once completed.
 </br>
 <img src="https://imgur.com/XXiEvXK.png"></img>
