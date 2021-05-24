@@ -7,7 +7,7 @@ Bugs and issues reports on the SmashMC network.
 
 ## Report Creation
 1. Either login if you already have a GitHub account or create one if you do not.
-
+</br>
 <img src="https://imgur.com/mcx9jtt.png"></img>
 
 
